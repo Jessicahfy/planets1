@@ -2,5 +2,5 @@
 Cold and dry, but everything 
 The two moons might be a problem for Wolfman. 
 The Mummy will appreciate the lack humidity. 
-Marjan added this line to mars.
+Marjan added this line to mars. I've made changes to this line again to test conflict.
 Jessica add this line to close the game. 
